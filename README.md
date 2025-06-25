@@ -1,6 +1,6 @@
 Statistical Analysis of Simulated EEG Time-Series Data
 Project Overview
-This project reproduces the statistical analysis presented in the paper "7089CEM: Statistical Methods Coursework" by Antonio Mpembe Franco. The analysis investigates a simulated EEG dataset comprising four input time-series signals (x1, x2, x3, x4) and one output time-series signal (y).
+This project reproduces the statistical analysis presented in the paper. The analysis investigates a simulated EEG dataset comprising four input time-series signals (x1, x2, x3, x4) and one output time-series signal (y).
 
 The core objectives of the analysis are:
 
